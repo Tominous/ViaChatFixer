@@ -74,8 +74,8 @@
     <modules>
         <module>common</module>
         <module>bukkit</module>
-        <!--<module>bungee</module>
-        <module>sponge</module>-->
+        <module>bungee</module>
+        <!--<module>sponge</module>-->
         <module>all</module>
     </modules>
 </project>
