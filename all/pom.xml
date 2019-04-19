@@ -46,7 +46,7 @@
             <version>${project.version}</version>
             <scope>compile</scope>
         </dependency>
-        <!--<dependency>
+        <dependency>
             <groupId>fr.mrmicky</groupId>
             <artifactId>viachatfixer-bungee</artifactId>
             <version>${project.version}</version>
@@ -57,6 +57,6 @@
             <artifactId>viachatfixer-sponge</artifactId>
             <version>${project.version}</version>
             <scope>compile</scope>
-        </dependency>-->
+        </dependency>
     </dependencies>
 </project>
